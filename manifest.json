@@ -1,6 +1,6 @@
 {
-    "name": "recovery_web",
-    "short_name": "recovery_web",
+    "name": "nvr_forget",
+    "short_name": "nvr_forget",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
